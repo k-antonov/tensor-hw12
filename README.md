@@ -1,5 +1,7 @@
 ### Тестовое приложения для запуска и изучения тестов
 
+[Домашнее задание.pdf](https://github.com/k-antonov/tensor-hw12/files/8728353/default.pdf)
+
 Предлагается ознакомиться с реализацией основных классов и тестов для них:
 
 * [MainViewModel](app/src/main/java/ru/tensor/testingapplication/ui/main/MainViewModel.kt) - реализация
